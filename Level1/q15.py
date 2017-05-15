@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+'''
+With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line. 
+
+Hints:
+
+Use [n1:n2] notation to get a slice from a tuple.
+'''
+
+tup = (1,2,3,4,5,6,7,8,9,10)
+
+tup1=tup[0:5]
+tup2=tup[5:]
+
+print tup1
+print tup2
