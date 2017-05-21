@@ -160,3 +160,17 @@ Hints:
 We can define recursive function in Python.
 Use list comprehension to generate a list from an existing list.
 Use string.join() to join a list of strings.
+
+q21:
+Print the ordinal values of the characters consisting a given string.
+For example if we print the ordinal values of the string "Hello World"
+the Result should be like the following:
+The ordinal value of character H is 72
+The ordinal value of character e is 101
+The ordinal value of character l is 108
+The ordinal value of character l is 108
+The ordinal value of character o is 111
+
+As bonus you may also print the hex and the binary values.
+
+
