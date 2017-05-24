@@ -121,3 +121,20 @@ Then, the output should be:
 500
 
 
+q12:
+Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.
+
+Hints:
+
+Use dict[key]=value pattern to put entry into a dictionary.
+Use ** operator to get power of a number.
+Use range() for loops.
+
+
+q13:
+Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10). 
+
+Hints:
+
+Use "for" to iterate the tuple
+Use tuple() to generate a tuple from a list.

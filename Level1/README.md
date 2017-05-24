@@ -173,4 +173,5 @@ The ordinal value of character o is 111
 
 As bonus you may also print the hex and the binary values.
 
-
+q22:
+Create a function that accepts a number and return it's absolute value.
