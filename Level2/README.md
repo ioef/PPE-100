@@ -138,3 +138,17 @@ Hints:
 
 Use "for" to iterate the tuple
 Use tuple() to generate a tuple from a list.
+
+q14:
+Write a program which accepts a string as input to print "Yes" if the string is "yes" or "YES" or "Yes", otherwiseprint "No". 
+ 
+Hints:
+Use if statement to judge condition.
+
+
+q15:
+Question:
+Define a class named American and its subclass NewYorker. 
+
+Hints:
+Use class Subclass(ParentClass) to define a subclass.
